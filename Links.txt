@@ -1,0 +1,8 @@
+Link to this folder: https://www.dropbox.com/sh/dzoxyf995ds1x0j/AAAbagbeBlqW_uh_6AegRRd8a?dl=0
+Machine Learning Glossary: https://developers.google.com/machine-learning/glossary
+Intro to Deep Learning with PyTorch: https://www.udacity.com/course/deep-learning-pytorch--ud188
+Intro to Deep Learning with PyTorch Exercises: https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
+Temperature Scaling Repository: https://github.com/zongyuange/Workshop-repository
+Google Colab: https://colab.research.google.com/    
+Slack channel: https://datafluency.slack.com/archives/C01FV2RAS3V
+Feedback Form: https://docs.google.com/forms/d/e/1FAIpQLSdVzEUewlu78zK6KZFlyCFLP2y6ETz5tDfvZlLLQ514fKPPUw/viewform
