@@ -12,7 +12,7 @@ The course is split into two workshops, which are ideally placed on a Friday and
 - A powerpoint recapping deep learning principles
 - A folder of PyTorch exercises for the students to complete in breakout rooms
 
-### Home Work
+### Homework
 - A powerpoint detailing what Temerature Scaling is and the structure of the homework
 - A folder containing the homework exercises
 - A folder with the completed homework exercises (to be covered at the beginning of the second workshop)
